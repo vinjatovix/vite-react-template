@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterApp should render correctly 1`] = `
+<div>
+  <h1>
+    CounterApp
+  </h1>
+  <h2
+    data-testid="count-value"
+  >
+    0
+  </h2>
+  <button
+    aria-label="subtract"
+  >
+    -1
+  </button>
+  <button
+    aria-label="reset"
+  >
+    Reset
+  </button>
+  <button
+    aria-label="add"
+  >
+    +1
+  </button>
+</div>
+`;
